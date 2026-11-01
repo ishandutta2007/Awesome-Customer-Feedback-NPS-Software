@@ -1,110 +1,69 @@
 # Awesome-Customer-Feedback-NPS-Software
 
-# Awesome-Customer-Feedback-NPS-Software
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Feedback-NPS-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Feedback-NPS-Software?style=social" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Feedback-NPS-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Feedback-NPS-Software?style=social" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Top Customer Feedback NPS Software (Opensource) 🌟 Star if you like it! 🌟**
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Customer Feedback and NPS Software Banner" width="100%"/>
+</p>
 
+<h3 align="center">🎯 Top Customer Feedback, Net Promoter Score (NPS) &amp; CX Software (Open-Source &amp; SaaS) 🌟 Star if you find it helpful! 🌟</h3>
 
+<p align="center">
+  <b>A comprehensive curated directory of SaaS platforms, self-hosted survey engines, in-app micro-survey SDKs, and open-source feedback boards.</b>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  <em>Focused on NPS Collection, In-App Micro-Surveys, Research-Grade Questionnaires, AI Sentiment Insights &amp; Self-Hosted Feedback Platforms</em><br>
+  <b>Last updated: November 2026</b>
+</p>
 
-*Focused on NPS Collection, In-App Micro-Surveys, Research-Grade Questionnaires & Self-Hosted Feedback Platforms*
+---
 
-**Last updated: November 2026**
+## 🧭 Table of Contents
 
+- [📊 Sector Overview &amp; Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS &amp; Commercial Hosted Platforms](#️-saas--commercial-hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ How to Contribute](#️-how-to-contribute)
+- [⚖️ Disclaimer &amp; Architecture Guidance](#️-disclaimer--architecture-guidance)
+- [⭐ Star History](#-star-history)
+- [💖 Support &amp; Sponsorship](#-support--sponsorship)
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Customer Feedback & NPS Software**. These tools enable teams to measure Net Promoter Score, collect in-product feedback, run research surveys, and close the loop with customers—from fully managed enterprise platforms with AI analysis to self-hosted survey engines that give organizations complete ownership of response data and GDPR compliance.
+## 📊 Sector Overview &amp; Market Dynamics
 
+The global **Customer Experience Management (CEM / CXM)** software market is valued at approximately **$14.0B to $17.5B** (with the specialized customer feedback and Voice of Customer software sub-segment reaching **$2.5B+**) and is expanding at an annualized CAGR of **11% to 15%** driven by generative AI sentiment analysis and automated in-app orchestration. The sector displays **moderate-to-high fragmentation** at the application tier—bifurcated between an enterprise oligopoly (Qualtrics, Medallia, and HubSpot) capturing centralized multi-million dollar CX contracts, and a highly competitive, fast-moving long tail of product-led in-app micro-survey tools, conversational form builders, and open-source self-hosted alternatives preventing a winner-take-all monopoly.
 
+---
 
-**Examples** include Qualtrics, Medallia, InMoment, SurveyMonkey, Typeform, Delighted, Retently, Nicereply, and HubSpot Feedback Management (the category leaders in commercial space).
+## ☁️ SaaS &amp; Commercial Hosted Platforms
 
+| Rank | Platform | Valuation / Revenue Scale | Starting Pricing | Free Tier / Trial Limit | Key Focus &amp; Best For |
+| :---: | :--- | :--- | :--- | :--- | :--- |
+| 1 | **[HubSpot Service Hub](https://www.hubspot.com/)** | **~$12.0B Market Cap** (NYSE: HUBS) / ~$2.2B ARR | **$15/seat/month** (Starter, billed annually) or $20/mo monthly | **Free-forever tier** (Max 2 seats, basic ticketing, shared inbox &amp; live chat; NPS/CSAT requires Pro tier $90–$100/seat/mo) | Complete CRM + omnichannel ticketing and automated satisfaction surveys for teams already centered on HubSpot. |
+| 2 | **[Qualtrics XM](https://www.qualtrics.com/)** | **$12.5B Valuation** (Acquired by Silver Lake / CPP) / ~$1.5B ARR | **$420/month** ($5,040/year billed annually) for Strategic Research; Enterprise CX custom (~$15k–$50k+/year) | **Free-forever account** (3 active surveys, 30 questions/survey, web/social links only, 500 lifetime total responses); **30-day trial** of Strategic Research tier | Enterprise-wide CX programs, academic rigor, employee experience (EX), and advanced statistical analytics. |
+| 3 | **[Medallia](https://www.medallia.com/)** | **~$6.4B Peak Valuation** (Lender consortium buyout 2026) / ~$600M–$1B ARR | **Custom enterprise quote** (Contract floor typically starts at ~$25k–$50k+/year) | **No free tier**; **No self-serve free trial** (Sales evaluation demo and custom proof-of-concept only) | Fortune 500 enterprises needing high-volume omnichannel feedback capture across contact centers, digital apps, and physical retail. |
+| 4 | **[SurveyMonkey](https://www.surveymonkey.com/)** | **$1.5B Valuation** (Acquired by STG) / ~$480M ARR | **$25/month** (billed annually at $300/yr) or $39/mo for Individual Advantage; $30/user/mo Team | **Free-forever Basic plan** (10 questions per survey, 25 viewable responses per survey, unlimited total surveys) | Universal survey creation with pre-built NPS/CSAT templates for SMBs, market researchers, and ad-hoc projects. |
+| 5 | **[Typeform](https://www.typeform.com/)** | **~$100M+ ARR** / Backed by $135M Series C | **$25/month** (billed annually at $300/yr) or $39/mo monthly for Basic Plan | **Free-forever plan** (10 responses/month, 10 questions per typeform, unlimited forms, basic logic jumps) | Engaging, conversational one-question-at-a-time forms that maximize completion rates for marketing and lead surveys. |
+| 6 | **[InMoment](https://inmoment.com/)** | **~$100M–$170M ARR** (Private Equity backed) | **Custom quote** (Mid-market contracts start around ~$10k–$15k/year) | **No free tier**; **No self-serve free trial** (Guided solution demos arranged through sales consultation) | AI-powered Voice of Customer (VoC) text analytics and customer improvement workflows across distributed operations. |
+| 7 | **[Sprig](https://sprig.com/)** | **~$20M–$25M ARR** / $88M+ Raised (Accel, a16z) | **$175/month** (billed annually, ~$2,100/yr) for Starter plan (up to 1,000 MTUs) | **Free-forever plan** (Capped at 500 Monthly Tracked Users and 1 active study per month); **14-day full feature trial** | Contextual in-product micro-surveys triggered by user events, integrated session replay, and AI feedback synthesis for product teams. |
+| 8 | **[Retently](https://www.retently.com/)** | **~$1.7M ARR** (Private bootstrapped/SMB) | **$49/month** (Basic plan, billed annually) or $69/mo monthly | **No free tier**; **14-day free trial** with full platform capabilities (NPS, CSAT, CES, email &amp; web surveys) without credit card | Automated multi-channel NPS and CSAT collection with out-of-the-box Slack, HubSpot, and Zapier notifications. |
+| 9 | **[Nicereply](https://www.nicereply.com/)** | **~$1.0M ARR** (Lean boutique SaaS) | **$39/month** (Mini plan, up to 100 responses/month, billed annually) or $49/mo monthly | **No free tier**; **14-day free trial** (Includes 100 survey responses, Zendesk/Front/Help Scout integrations) without credit card | Customer service and helpdesk support teams wanting one-click CSAT, CES, and NPS surveys directly inside ticket resolution emails. |
+| 10 | **[Delighted](https://delighted.com/)** | *Historical $1M–$2M ARR (Subsidiary of Qualtrics; standalone sunset June 2026)* | **$19/month** (Historical Starter plan; migration to Qualtrics Core XM) | **Historical Free tier: 25 responses/month**; redirecting new accounts to Qualtrics XM free tier (500 lifetime responses) | Fast turnaround turn-key NPS surveys for product teams migrating into the Qualtrics ecosystem. |
 
+---
 
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosted NPS, in-app surveys, and open feedback infrastructure. **Critical note**: The open-source landscape splits by use case—**Formbricks** is the modern choice for in-product NPS and micro-surveys with behavior-based targeting , while **LimeSurvey** is the veteran for research-grade questionnaires with 30+ question types and deep logic . **Astuto** and **Refyyn** handle public feedback boards with voting, not NPS scoring . No single open-source project matches Qualtrics's research depth or Medallia's enterprise CX suite, but for NPS measurement specifically, Formbricks is production-proven.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Qualtrics](https://www.qualtrics.com/)**
-
-  **Enterprise experience management platform** with NPS, CSAT, CES, and advanced analytics. **Pricing**: **Quote-only**; enterprise contracts. **Free tier**: **No free tier**; demo available. **Best for**: large enterprises needing research-grade survey methodology and CX program management—**trade-off**: enterprise pricing; implementation commitment.
-
-
-
-- **[Medallia](https://www.medallia.com/)**
-
-  **Enterprise customer experience platform** with NPS and feedback analytics. **Pricing**: **Quote-only**; six-figure enterprise contracts. **Free tier**: None. **Best for**: large enterprises with dedicated CX teams—**trade-off**: enterprise-only; not accessible for SMBs.
-
-
-
-- **[InMoment](https://inmoment.com/)**
-
-  **Experience improvement platform** with NPS and text analytics. **Pricing**: **Quote-only**. **Free tier**: None. **Best for**: enterprises wanting AI-powered feedback analysis at scale.
-
-
-
-- **[SurveyMonkey](https://www.surveymonkey.com/)**
-
-  **Survey platform** with NPS question type and templates. **Pricing**: **Free plan** with **10 questions and 25 responses per survey**; paid from **$25/month** . **Free tier**: Yes, limited. **Best for**: SMBs wanting a familiar survey tool with NPS templates—**trade-off**: limited free tier; advanced logic requires paid plans.
-
-
-
-- **[Typeform](https://www.typeform.com/)**
-
-  **Conversational form builder** with NPS and logic branching. **Pricing**: **Free plan** with **10 responses/month**; paid from **$25/month** . **Free tier**: Yes, 10 responses/month. **Best for**: teams wanting engaging, conversational survey experiences—**trade-off**: response limits on free tier.
-
-
-
-- **[Delighted](https://delighted.com/)** (Qualtrics)
-
-  **NPS-focused feedback platform** with automated email/SMS collection. **Pricing**: **Free plan** with **100 responses/month**; paid from **$224/month** for higher volumes. **Free tier**: Yes, 100 responses/month. **Best for**: teams wanting simple, automated NPS collection—**trade-off**: limited free tier; pricing scales with volume.
-
-
-
-- **[Retently](https://www.retently.com/)**
-
-  **NPS and CSAT platform** with automation and Slack integration. **Pricing**: **Free plan** with **100 responses/month**; paid from **$49/month**. **Free tier**: Yes, 100 responses. **Best for**: SMBs wanting NPS automation with team notifications.
-
-
-
-- **[Nicereply](https://www.nicereply.com/)**
-
-  **CSAT, NPS, and CES** for support teams with helpdesk integrations. **Pricing**: **Free plan** with **50 responses/month**; paid from **$29/agent/month**. **Free tier**: Yes, limited. **Best for**: support teams wanting feedback tied to tickets.
-
-
-
-- **[HubSpot Feedback Management](https://www.hubspot.com/)**
-
-  **NPS, CSAT, and CES surveys** within HubSpot Service Hub. **Pricing**: Included with Service Hub Professional ($100/seat/month) and Enterprise. **Free tier**: Limited. **Best for**: HubSpot users wanting feedback integrated with CRM and tickets.
-
-
-
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
 - **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)
 
-  **Open-source experience management platform** (AGPLv3) — **the best open-source choice for in-product NPS and behavior-triggered micro-surveys**, with **13,000+ GitHub stars**. **Features**: **NPS, CSAT, CES, and 20+ question types**; **in-app surveys** triggered by user attributes, events, and segments; website surveys via lightweight JavaScript snippet; link surveys with custom branding; skip logic and conditional branching; built-in analytics with charts and CSV/JSON export; webhooks and integrations with Slack, Notion, Google Sheets, Airtable, and Zapier; multi-language support. **Tech stack**: Next.js, PostgreSQL (pgvector), Redis. **Deploy**: Self-hosted (Docker, Railway one-click) or Formbricks Cloud. **Trade-off**: **In-product focus**—less suited for long-form research questionnaires than LimeSurvey; enterprise features gated in paid tier. **Best for**: SaaS and product teams wanting contextual NPS that fires while users are in the app—not blast-one-link surveys.
+  **Open-source experience management platform** (AGPLv3) — **the premier open-source choice for in-product NPS and behavior-triggered micro-surveys**, with **13,000+ GitHub stars**. **Features**: **NPS, CSAT, CES, and 20+ question types**; **in-app surveys** triggered by user attributes, events, and segments; website surveys via lightweight JavaScript snippet; link surveys with custom branding; skip logic and conditional branching; built-in analytics with charts and CSV/JSON export; webhooks and integrations with Slack, Notion, Google Sheets, Airtable, and Zapier; multi-language support. **Tech stack**: Next.js, PostgreSQL (pgvector), Redis. **Deploy**: Self-hosted (Docker, Railway one-click) or Formbricks Cloud. **Trade-off**: **In-product focus**—less suited for long-form research questionnaires than LimeSurvey; enterprise features gated in paid tier. **Best for**: SaaS and product teams wanting contextual NPS that fires while users are in the app—not blast-one-link surveys.
 
 - **[HeyForm](https://github.com/heyform/heyform)** [![GitHub stars](https://img.shields.io/github/stars/heyform/heyform?style=social&color=white)](https://github.com/heyform/heyform/stargazers)
 
@@ -182,56 +141,56 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
   **Self-contained CSAT survey and analytics in a single binary** (MIT) — **zero-dependency satisfaction survey tool**. **Features**: Encrypted SMS/email survey links, admin dashboard, multi-language support (English/Spanish), customizable branding, and single-file executable operation. **Tech stack**: Go. **Deploy**: Self-hosted (single compiled binary, no external DB required). **Trade-off**: **CSAT focused**—metric format is 1-5 customer satisfaction rather than standard 0-10 NPS. **Best for**: teams wanting an ultralight, single-binary feedback system for SMS or link-based satisfaction collection.
 
-**Frameworks & Stack Recommendations**:
+**💡 Frameworks &amp; Stack Recommendations**:
 Combine **Formbricks** for in-app NPS with **Fider**, **Astuto**, or **Refyyn** for public feedback boards, **LimeSurvey** or **SurveyKing** for deep research questionnaires, and **Obsei** for AI-driven sentiment and Voice of Customer analytics—creating an end-to-end feedback ecosystem matched to every customer touchpoint.
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Customer feedback platforms handling respondent data must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls for survey responses and NPS scores.
-
-- **The "in-product NPS" vs. "research-grade survey" vs. "feedback board" distinction is critical.** **Formbricks** is **in-product NPS**—it targets users by behavior and triggers surveys inside the app . **LimeSurvey** is **research-grade**—it handles long questionnaires with deep logic and statistical exports . **Astuto and Refyyn** are **feedback boards**—they collect feature requests with voting, not NPS scores . **prometheus-nps** is a **focused NPS implementation**—collection plus AI analysis, but early-stage . **Choose based on whether you need contextual in-app NPS, deep research surveys, or a public feedback portal.**
-
-- **Formbricks is the best open-source choice for in-product NPS.** With 12,000+ stars, NPS/CSAT/CES support, behavior-based targeting, and Docker self-hosting, it is the modern Qualtrics/Sprig alternative for product teams . **The trade-off**: less suited for long-form research questionnaires than LimeSurvey.
-
-- **LimeSurvey is the veteran for research.** Since 2006, with 30+ question types, SPSS/R exports, and GDPR compliance, it is hard to beat for academic and market research . **The trade-off**: utilitarian interface; heavier for simple in-app NPS.
-
-- **Astuto and Refyyn are not NPS tools.** They collect feedback and feature requests with voting; neither measures satisfaction scores . **Do not evaluate them for NPS requirements.**
-
-- **prometheus-nps is early-stage but focused**—it does one thing (NPS collection + AI analysis) and requires Supabase, OpenAI, and Resend . **For a reference implementation or small-scale NPS, it is useful; for production, Formbricks is safer.**
-
-- **Pricing opacity varies.** Qualtrics, Medallia, InMoment, and HubSpot (enterprise) require sales contact. SurveyMonkey, Typeform, Delighted, Retently, and Nicereply publish tiered pricing with free tiers. **Validate with direct vendor conversations against your response volume and feature needs.**
-
-- Self-hosted open-source solutions require proper infrastructure (PostgreSQL/Redis for Formbricks, PHP/MySQL for LimeSurvey), security hardening, and ongoing maintenance. **Survey data includes respondent PII and sentiment**—ensure your deployment meets your organization's privacy and GDPR requirements before collecting responses.
-
-
 
 ---
 
+## 🛠️ How to Contribute
 
+Contributions are warmly encouraged! Help keep this directory current, accurate, and valuable for the open-source and CX community:
 
-**Made for product teams, CX researchers, and organizations building transparent feedback solutions.**
+1. 🍴 Fork the repository.
+2. 🌿 Create your feature branch (`git checkout -b feature/add-feedback-tool`).
+3. 📝 Add/edit entries in `README.md` adhering to the existing formatting and neutral factual criteria:
+   - For **Open-Source projects**: Include GitHub repo link, star badge (`style=social&color=white`), license, tech stack, deployment method, trade-offs, and best-for use cases.
+   - For **SaaS platforms**: Include market size / valuation scale, specific starting tier pricing, and explicit free tier or trial duration limits in tabular format.
+4. 🚀 Submit a PR with a concise description of the contribution.
 
-Let's make Customer Feedback & NPS Software more open, data-driven, and respondent-friendly.
+---
+
+## ⚖️ Disclaimer &amp; Architecture Guidance
+
+- 📌 This repository is a **community-curated index** created for educational, architectural, and evaluation purposes; it does not constitute an official commercial endorsement.
+- 🔐 **Data Privacy &amp; Compliance**: Customer feedback platforms process sensitive user sentiment and Personally Identifiable Information (PII). Ensure your selected deployment adheres to applicable regulations (**GDPR, CCPA/CPRA, HIPAA**) with strict data residency and role-based access control (RBAC).
+- 🧩 **Architectural Distinction**:
+  - **In-Product NPS &amp; Micro-Surveys** (*Formbricks, Sprig*): Embeds into web/mobile sessions, triggers contextually based on user events/attributes, minimizing respondent friction.
+  - **Research-Grade Survey Suites** (*LimeSurvey, Qualtrics, SurveyKing*): Engineered for multi-page logic branching, statistical sampling, and complex questionnaires.
+  - **Public Feedback Portals &amp; Roadmaps** (*Fider, Astuto, LogChimp, Refyyn*): Designed for user idea submission, community upvoting, and feature delivery transparency.
+  - **Voice of Customer (VoC) Analytics** (*Obsei, InMoment*): Ingests unstructured multi-channel text feedback to extract sentiment, topics, and actionable insights.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Customer-Feedback-NPS-Software&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Customer-Feedback-NPS-Software&type=date&legend=top-left)
+
+---
+
+## 💖 Support &amp; Sponsorship
+
+Thank you so much for exploring and supporting **Awesome-Customer-Feedback-NPS-Software**! 🎉
+
+If this repository saved you time, assisted your architectural evaluations, or inspired your customer experience stack:
+- ⭐ **Star** this repository to help other developers and product managers discover it.
+- 🍴 **Fork** and contribute back with updates and new tools.
+- 📢 **Share** it with your engineering and product communities.
+- ☕ **Buy a coffee or sponsor ongoing maintenance**: Your support keeps this project active and continuously updated!
+  
+👉 **[Sponsor on GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)** 💖
+
+---
+
+<p align="center">
+  Made with ❤️ for product engineers, CX researchers, and data-driven teams building respondent-friendly feedback experiences worldwide. 🌍
+</p>
